@@ -30,6 +30,6 @@ function WrongAnswer4() {
 }
 
 function CorrectAnswer4() {
-    alert("Correct!\nNice moves, dude!");
-    document.location.href = "victory.html";
+    alert("Correct!\nNice moves, dude!")
+    document.location.href = "victory.html"
 }
