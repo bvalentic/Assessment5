@@ -1,0 +1,67 @@
+#question1 {
+    background-color: darkslategrey;
+    background-size: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(Hulkster.jpg);
+    
+}
+
+#question2 {
+    background-color: darkslategrey;
+    background-size: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(HonkyTonk.png);
+}
+
+#question3 {
+    background-color: darkslategrey;
+    background-size: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(Rowdy.jpg);
+}
+
+#question4 {
+    background-color: darkslategrey;
+    background-size: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(MachoMan.jpg);
+}
+
+.header {
+    background-color: firebrick;
+    margin: 5px;
+    text-align: center;
+}
+
+.question {
+    display: flex;
+    flex-flow: column;
+    background-color: firebrick;
+    margin: 100px;
+    padding: 25px;
+    text-align: center;
+}
+
+.question-answers {
+    display: flex;
+    justify-content: center;
+}
+
+#victory {
+    background-color: darkslategrey;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(Victory.jpg);
+}
+
+#victory-text {
+    position: absolute;
+    bottom: 15px;
+    left: 25;
+    right: 25;
+}
